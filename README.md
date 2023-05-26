@@ -1,2 +1,2 @@
-# website
-Clone website using html and CSS
+# GalleryPortfollio
+created by html and CSS
